@@ -1,0 +1,34 @@
+.profile_image {
+    width: 260px;
+    height: 260px;
+    border-radius: 130px;
+}
+
+.profile {
+    display: flex;
+    justify-content: center;
+    padding-top: 35px;
+}
+
+.profile_info {
+    margin-left: 22px;
+}
+
+.followers_posts {
+    display: flex;
+}
+
+.followers_posts h5 {
+    margin: 0px 13px;
+}
+
+.media {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.media img {
+    display: flex;
+    width: 30%;
+    margin: 3px;
+}

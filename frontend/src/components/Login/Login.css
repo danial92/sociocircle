@@ -1,0 +1,25 @@
+.auth_card{
+    padding: 20px;
+    text-align: center;
+    max-width: 400px;
+    margin: 90px auto;
+}
+
+.auth_card a {
+    /* background-color: #212121; */
+    background-color: black;
+}
+
+.auth_card a:hover {
+    background-color: #343232;
+}
+
+.auth_card input[type=text]:focus {
+    border-bottom: 1px solid #343232 !important;
+    box-shadow: 0 1px 0 0 #343232 !important;
+}
+
+.auth_card input[type=password]:focus {
+    border-bottom: 1px solid #343232 !important;
+    box-shadow: 0 1px 0 0 #343232 !important;
+}

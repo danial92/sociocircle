@@ -1,0 +1,32 @@
+.create_card{
+    padding: 20px;
+    text-align: center;
+    max-width: 400px;
+    margin: 90px auto;
+}
+
+.create_card a {
+    background-color: #212121;
+}
+
+.create_card a:hover {
+    background-color: #343232;
+}
+
+.create_card input[type=text]:focus {
+    border-bottom: 1px solid #343232 !important;
+    box-shadow: 0 1px 0 0 #343232 !important;
+}
+
+.btn {
+    background-color: #343232;
+}
+
+.btn:hover {
+    background-color: #343232;
+}
+
+.picInput input[type=text]:focus {
+    border-bottom: 1px solid #343232 !important;
+    box-shadow: 0 1px 0 0 #343232 !important;
+}
